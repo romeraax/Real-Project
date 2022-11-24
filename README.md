@@ -1,2 +1,1 @@
-# Real Project
- Techdegree Third Project
+# Techdegree Project 3
